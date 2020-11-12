@@ -9,6 +9,6 @@ Here are some images for demo
 
 ![](images/Playing.jpg)
 
-```
+
 ![](images/Winning.jpg)
-```
+

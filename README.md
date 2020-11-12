@@ -5,5 +5,10 @@ Just clone it to your own computer, open it on browser and enjoy!
 ```
 ```
 Here are some images for demo
+```
+```
 ![](images/Playing.jpg)
+```
+```
 ![](images/Winning.jps)
+```

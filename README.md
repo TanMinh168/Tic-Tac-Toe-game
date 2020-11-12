@@ -10,5 +10,5 @@ Here are some images for demo
 ![](images/Playing.jpg)
 ```
 ```
-![](images/Winning.jps)
+![](images/Winning.jpg)
 ```
